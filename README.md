@@ -4,9 +4,8 @@ Repositorio creado como parte del proceso de formación en Inteligencia Artifici
 ## 📚 Contenido
 
 📁 01_Introducción_IA/
-├── Definiciones básicas
-├── Historia de la IA
-└── Aplicaciones actuales
+
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 📁 02_Machine_Learning/
 ├── Regresión lineal y logística
 ├── Clasificación y clustering
